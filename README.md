@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Follow me</h1>
+  <h1>Foll</h1>
 </p>
 
 # Django React Ecommerce
